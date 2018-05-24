@@ -1,4 +1,4 @@
 <?php
-header("Location: http://www.vanquishheadacherelief.com/why-headache-pain-occurs-behind-the-eyes/");
+header("Location: https://www.overheaddoordenver.com/");
 die();
 ?>
